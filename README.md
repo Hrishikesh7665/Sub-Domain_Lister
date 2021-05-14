@@ -5,7 +5,7 @@
 # Sub-Domain_Lister
 A Tkinter GUI based simple tool for Linux to list down all Sub-Domain of a particular Domain with IP Address & Status (Written In Python 3.9)
 
-**Made In Python(3.9.0) With Tkinter GUI**
+**Made In Python(3.9.4) With Tkinter GUI**
 
 
 ## Usage
@@ -59,7 +59,7 @@ python3 "dsearchUI.py"
 
 **Single Line Command**
 
-git clone https://github.com/Hrishikesh7665/Sub-Domain_Lister.git && cd
+git clone https://github.com/Hrishikesh7665/Sub-Domain_Lister.git && cd Sub-Domain_Lister && pip3 install -r requirements.txt
 
 
 **N.B: If You Getting “No Module Tkinter” Error Try This:**
